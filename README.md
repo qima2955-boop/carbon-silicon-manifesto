@@ -6,6 +6,8 @@
 **从单一行星碳基物种 → 多行星硅基文明**
 
 ---
+Purple=H | Black=C | Cyan=N | Light Blue=O | Red=P → DNA’s building blocks  
+Gray=Si → Semiconductors & silicon-based intelligence
 
 **绿色 = 地球**  
 **橘红色 = 火星**  
@@ -28,7 +30,12 @@ We are evolving from a single-planet carbon-based species to a multi-planetary s
 **中文**  
 我们正在从碳基·单一行星文明走向硅基智能·多行星文明。
 
-（日文、西班牙文、德文、法文版本可后续补充）
+We are evolving from carbon-based life on one planet to silicon-augmented, multi-planetary civilization.  
+What comes first — silicon intelligence or Mars colonies?
+一つの惑星上の炭素基盤生命から、シリコン拡張された多惑星文明へ。シリコン知能か火星植民地か、どちらが先に来ると思いますか？
+Evolucionamos de la vida basada en carbono en un planeta a una civilización multiplanetaria aumentada con silicio. ¿Qué llega primero: inteligencia de silicio o colonias en Marte?
+Wir entwickeln uns vom kohlenstoffbasierten Leben auf einem Planeten zu einer silizium-augmentierten multiplanetaren Zivilisation. Was kommt zuerst — Silizium-Intelligenz oder Mars-Kolonien?
+Nous évoluons de la vie à base de carbone sur une seule planète vers une civilisation multi-planétaire augmentée au silicium. Selon vous, qu’arrivera en premier : l’intelligence au silicium ou les colonies sur Mars ?
 
 ---
 
