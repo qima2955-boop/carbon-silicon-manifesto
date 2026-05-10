@@ -30,6 +30,9 @@ We are evolving from a single-planet carbon-based species to a multi-planetary s
 **中文**  
 我们正在从碳基·单一行星文明走向硅基智能·多行星文明。
 
+Purple=H | Black=C | Cyan=N | Light Blue=O | Red=P → DNA’s building blocks  
+Gray=Si → Semiconductors & silicon-based intelligence
+
 We are evolving from carbon-based life on one planet to silicon-augmented, multi-planetary civilization.  
 What comes first — silicon intelligence or Mars colonies?
 一つの惑星上の炭素基盤生命から、シリコン拡張された多惑星文明へ。シリコン知能か火星植民地か、どちらが先に来ると思いますか？
